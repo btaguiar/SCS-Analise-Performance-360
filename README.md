@@ -159,7 +159,8 @@ Esses períodos representam o **ponto ótimo entre investimento, criativo e púb
 ## 🧠 Autor
 
 **Bruno Aguiar**  
-🎥 Filmmaker | 📊 Data Analytics & Marketing Intelligence  
-🔗 [linkedin.com/in/bruno-aguiar-tv](https://linkedin.com/in/bruno-aguiar-tv)
+📊 Data Analytics | Marketing Intelligence | Business Insights  
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-aguiar-marketing-analytics/)  
+💻 [GitHub](https://github.com/btaguiar)
 
 ---
